@@ -3,7 +3,8 @@
 <h3 align="center">currently learning devops and cloud computing !!</h3>
 
 <div align="center">
-  <img src="https://damien-img-s3.s3.amazonaws.com/devops-cicd.png" />
+
+  <img src="https://damien-img-s3.s3.amazonaws.com/devops-cicd.png" width="500"/>
 </div> 
 
 
