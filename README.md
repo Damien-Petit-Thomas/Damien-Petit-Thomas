@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from France</h3>
 <h3 align="center">currently learning devops and cloud computing !!</h3>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damien-Petit-Thomas&show_icons=true&theme=dark" />
-</div> -->
+<div align="center">
+  <img src="https://damien-img-s3.s3.amazonaws.com/devops-cicd.png" />
+</div> 
 
 
 ## 💻 Hard skills
@@ -37,3 +37,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+## more about me?
+[portofolio](https://damiendevops.com)
+[linkedIn](https://www.linkedin.com/in/damien-petit-thomas)
